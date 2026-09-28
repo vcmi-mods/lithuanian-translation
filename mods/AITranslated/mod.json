@@ -1,0 +1,15 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Google Translate",
+	"contact" : "",
+	"language" : "lithuanian",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-lithuanian-ai/campaigns.json",
+		"config/vcmi-lithuanian-ai/game.json",
+		"config/vcmi-lithuanian-ai/maps.json",
+		"config/vcmi-lithuanian-ai/chronicles.json"
+	]
+}
