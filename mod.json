@@ -6,21 +6,21 @@
 	"contact" : "",
 	"language" : "lithuanian",
 	"modType" : "Translation",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.8.0"
 	},
-	"changelog" : 
-	{ 
-		"1.0.0" : [ "Initial release" ]
+	"changelog" : {
+		"1.0.0" : [
+			"Initial release"
+		]
 	},
 	"german" : {
 		"name" : "Litauische Übersetzung",
-		"description" : "Litauische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Litauische Übersetzung von Heroes of Might and Magic III: Complete Edition"
 	},
 	"lithuanian" : {
 		"name" : "Lietuviškas vertimas",
-		"description" : "Heroes of Might and Magic III: Complete Edition vertimas į lietuvių kalbą"	
+		"description" : "Heroes of Might and Magic III: Complete Edition vertimas į lietuvių kalbą"
 	},
 	"translations" : [
 		"config/vcmi-lithuanian/game.json",
