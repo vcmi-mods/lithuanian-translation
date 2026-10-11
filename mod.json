@@ -8,7 +8,7 @@
 	"modType" : "Translation",
 	"compatibility" :
 	{
-		"min" : "1.7.0"
+		"min" : "1.8.0"
 	},
 	"changelog" : 
 	{ 
